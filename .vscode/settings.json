@@ -1,4 +1,0 @@
-{
-  "jupyter.kernels.kernelStartTimeout": 120,
-  "jupyter.notebookFileRoot": "${workspaceFolder}"
-}
